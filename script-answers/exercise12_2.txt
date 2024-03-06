@@ -1,0 +1,13 @@
+Script started on 2024-03-05 10:40:47+02:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="120" LINES="30"]
+niblo@LAPTOP-QNECSC9J:~$ docker run -it ubuntu bash
+root@3a4f4f416df2:/# cd usr/src/
+root@3a4f4f416df2:/usr/src# mkdir app
+root@3a4f4f416df2:/usr/src# touch app/index.js
+root@3a4f4f416df2:/usr/src# ls app/
+index.js
+root@3a4f4f416df2:/usr/src# exit
+exit
+niblo@LAPTOP-QNECSC9J:~$ exit
+exit
+
+Script done on 2024-03-05 10:41:33+02:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,12 @@
+Script started on 2024-03-05 10:55:29+02:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="120" LINES="18"]
+niblo@LAPTOP-QNECSC9J:~$ docker start -i confident_chebyshev
+root@3a4f4f416df2:/# cd usr/src/app/
+root@3a4f4f416df2:/usr/src/app# nano index.js
+root@3a4f4f416df2:/usr/src/app# cat index.js
+console.log('Hello World')
+root@3a4f4f416df2:/usr/src/app# exit
+exit
+eniblo@LAPTOP-QNECSC9J:~$ exit
+exit
+
+Script done on 2024-03-05 10:57:00+02:00 [COMMAND_EXIT_CODE="0"]
